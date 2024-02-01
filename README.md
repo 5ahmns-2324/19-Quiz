@@ -15,8 +15,6 @@ WebGL Referenzauflösung (960x600)
 ### Notwendiges für die Ausführung: 
 Installierter Unity Hub mit Unity Editor in passender Version
 
-### Drittmaterial: 
- 
 
 ### Anforderungsliste:  
 - [x] Antwortmöglichkeiten
@@ -26,19 +24,17 @@ Installierter Unity Hub mit Unity Editor in passender Version
 - [x] Counter
 - [x] farbiges Feedback
 - [ ] Mehrfachauswahl der Antworten
-- [x] Randomized Questions Button
+- [x] randomisierete Fragen
 - [ ] randomisierte Antworten
 - [x] Bilder
 - [x] Endscreen
 - [x] Audio
 
 ### Limitationen:
-Es konnte Aufgrund der Struktur des Quizzes keine Mehrfachantwortmöglichkeiten eingebaut werden. Auch die Antworten konnten aufgrund der Quizstruktur nicht randomisiert werden.
+Die Antworten unter sich konnnten nicht randomisiert werden.
 
 ### Lessons Learned:
 - [x] Verwendung von Scripts ohne Monobehaviour
-- [x] for Schleifen
-- [x] Farben von Text-Mesh-Pro Buttons per Script verändern
-- [x] Verwendung von Listen
+- [x] if und if else Statements
 
-Copyright by Caro :)
+Copyright by LisaM :)
